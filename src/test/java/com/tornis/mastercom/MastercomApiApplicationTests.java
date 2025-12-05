@@ -1,4 +1,4 @@
-package com.tornis.mastercom.mastercom_api;
+package com.tornis.mastercom;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

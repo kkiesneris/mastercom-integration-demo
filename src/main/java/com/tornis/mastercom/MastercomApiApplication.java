@@ -1,4 +1,4 @@
-package com.tornis.mastercom.mastercom_api;
+package com.tornis.mastercom;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
